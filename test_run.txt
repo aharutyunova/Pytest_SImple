@@ -1,0 +1,100 @@
+1666998284.434564 - INFO - 
+
+1666998284.434564 - INFO - ====== WebDriver manager ======
+1666998284.460208 - INFO - Current google-chrome version is 106.0.5249
+1666998284.461274 - INFO - Get LATEST driver version for 106.0.5249
+1666998284.748459 - INFO - Get LATEST driver version for 106.0.5249
+1666998284.913800 - INFO - Trying to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+1666998287.294826 - INFO - Driver has been saved in cache [C:\Users\Dell\.wdm\drivers\chromedriver\win32\106.0.5249.61]
+1666998398.141089 - INFO - 
+
+1666998398.142077 - INFO - ====== WebDriver manager ======
+1666998398.168629 - INFO - Current google-chrome version is 106.0.5249
+1666998398.168629 - INFO - Get LATEST driver version for 106.0.5249
+1666998398.361415 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\106.0.5249.61\chromedriver.exe] found in cache
+1666998512.496892 - INFO - 
+
+1666998512.496892 - INFO - ====== WebDriver manager ======
+1666998512.519094 - INFO - Current google-chrome version is 106.0.5249
+1666998512.519094 - INFO - Get LATEST driver version for 106.0.5249
+1666998512.703633 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\106.0.5249.61\chromedriver.exe] found in cache
+1666998693.469853 - INFO - 
+
+1666998693.470874 - INFO - ====== WebDriver manager ======
+1666998693.497168 - INFO - Current google-chrome version is 106.0.5249
+1666998693.497168 - INFO - Get LATEST driver version for 106.0.5249
+1666998693.759650 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\106.0.5249.61\chromedriver.exe] found in cache
+1666998758.433438 - INFO - 
+
+1666998758.433438 - INFO - ====== WebDriver manager ======
+1666998758.456536 - INFO - Current google-chrome version is 106.0.5249
+1666998758.456536 - INFO - Get LATEST driver version for 106.0.5249
+1666998758.671400 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\106.0.5249.61\chromedriver.exe] found in cache
+1666998908.594279 - INFO - 
+
+1666998908.596438 - INFO - ====== WebDriver manager ======
+1666998908.623539 - INFO - Current google-chrome version is 106.0.5249
+1666998908.623539 - INFO - Get LATEST driver version for 106.0.5249
+1666998908.855780 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\106.0.5249.61\chromedriver.exe] found in cache
+1666998946.475869 - INFO - 
+
+1666998946.477942 - INFO - ====== WebDriver manager ======
+1666998946.509175 - INFO - Current google-chrome version is 106.0.5249
+1666998946.509175 - INFO - Get LATEST driver version for 106.0.5249
+1666998946.740593 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\106.0.5249.61\chromedriver.exe] found in cache
+1666998972.416196 - INFO - 
+
+1666998972.417198 - INFO - ====== WebDriver manager ======
+1666998972.442302 - INFO - Current google-chrome version is 106.0.5249
+1666998972.442801 - INFO - Get LATEST driver version for 106.0.5249
+1666998972.617105 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\106.0.5249.61\chromedriver.exe] found in cache
+1666999005.419157 - INFO - 
+
+1666999005.420165 - INFO - ====== WebDriver manager ======
+1666999005.446228 - INFO - Current google-chrome version is 106.0.5249
+1666999005.446228 - INFO - Get LATEST driver version for 106.0.5249
+1666999005.707825 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\106.0.5249.61\chromedriver.exe] found in cache
+1666999040.383750 - INFO - 
+
+1666999040.385762 - INFO - ====== WebDriver manager ======
+1666999040.413315 - INFO - Current google-chrome version is 106.0.5249
+1666999040.414317 - INFO - Get LATEST driver version for 106.0.5249
+1666999040.602783 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\106.0.5249.61\chromedriver.exe] found in cache
+1667000691.462585 - ERROR - <pages.home.Home object at 0x000001DF40D991C0>
+1667000693.664410 - ERROR - <pages.sign_up.SignUp object at 0x000001DF419772B0>
+1667000819.974891 - ERROR - <pages.home.Home object at 0x000001A5CEEB5CD0>
+1667000821.860564 - ERROR - <pages.sign_up.SignUp object at 0x000001A5CEE1AFA0>
+1667000827.422658 - ERROR - <pages.sign_up.SignUp object at 0x000001A5CEE1AFA0>
+1667000837.676415 - ERROR - <pages.home.Home object at 0x000001A5CEE1ADF0>
+1667000907.521510 - ERROR - <pages.home.Home object at 0x000001FFEDE891C0>
+1667000911.018889 - ERROR - <pages.sign_up.SignUp object at 0x000001FFEEA59250>
+1667000916.308393 - ERROR - <pages.sign_up.SignUp object at 0x000001FFEEA59250>
+1667000916.308393 - ERROR - <pages.home.Home object at 0x000001FFEEA59340>
+1667000918.430348 - ERROR - <pages.home.Home object at 0x000001FFEDE891C0>
+1667000919.848684 - ERROR - <pages.sign_in.SignIn object at 0x000001FFEEA592E0>
+1667000973.151767 - ERROR - <pages.home.Home object at 0x0000024CE6B391C0>
+1667000974.916114 - ERROR - <pages.sign_up.SignUp object at 0x0000024CE7709250>
+1667000979.763171 - ERROR - <pages.sign_up.SignUp object at 0x0000024CE7709250>
+1667000979.763171 - ERROR - <pages.home.Home object at 0x0000024CE7709340>
+1667000982.511275 - ERROR - <pages.home.Home object at 0x0000024CE6B391C0>
+1667000985.435225 - ERROR - <pages.sign_in.SignIn object at 0x0000024CE77092E0>
+1667000990.886585 - ERROR - <pages.home.Home object at 0x0000024CE6B391C0>
+1667000992.511093 - ERROR - <pages.contact_us.ContactUs object at 0x0000024CE77093A0>
+1667000997.174217 - ERROR - <pages.home.Home object at 0x0000024CE6B391C0>
+1667000998.223687 - ERROR - <pages.contact_us.ContactUs object at 0x0000024CE77093A0>
+1667000999.535003 - ERROR - <pages.home.Home object at 0x0000024CE7709340>
+1667001001.858360 - ERROR - <pages.home.Home object at 0x0000024CE7709340>
+1667001001.972096 - ERROR - <pages.home.Home object at 0x0000024CE7709340>
+1667248743.815871 - ERROR - <pages.home.Home object at 0x00000273D6F9A2B0>
+1667248746.434028 - ERROR - <pages.sign_up.SignUp object at 0x00000273D7B5D3D0>
+1667248751.641471 - ERROR - <pages.sign_up.SignUp object at 0x00000273D7B5D3D0>
+1667248751.641471 - ERROR - <pages.home.Home object at 0x00000273D7B5D4C0>
+1667248754.962350 - ERROR - <pages.home.Home object at 0x00000273D6F9A2B0>
+1667248756.839258 - ERROR - <pages.sign_in.SignIn object at 0x00000273D7B5D460>
+1667248761.386673 - ERROR - <pages.home.Home object at 0x00000273D6F9A2B0>
+1667248766.067390 - ERROR - <pages.contact_us.ContactUs object at 0x00000273D7B5D520>
+1667248769.109157 - ERROR - <pages.home.Home object at 0x00000273D6F9A2B0>
+1667248772.617217 - ERROR - <pages.contact_us.ContactUs object at 0x00000273D7B5D520>
+1667248774.234358 - ERROR - <pages.home.Home object at 0x00000273D7B5D4C0>
+1667248778.072854 - ERROR - <pages.home.Home object at 0x00000273D7B5D4C0>
+1667248778.235512 - ERROR - <pages.home.Home object at 0x00000273D7B5D4C0>
