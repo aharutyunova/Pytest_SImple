@@ -1,9 +1,5 @@
-from selenium import webdriver
 from testdata import test_data
-from pages.home import Home
-from pages.contact_us import ContactUs
 from lib.helpers import Helper
-from pages.sign_in import SignIn
 from pages.sign_up import SignUp
 
 def test_1_registration(driver):

@@ -1,10 +1,10 @@
-import imp
 from testdata import test_data
 from lib.helpers import Helper
 from pages.sign_in import SignIn
-from pages.sign_up import SignUp
 import json
+import pytest
 
+@pytest.mark.regression
 def test_2_sign_in(driver):
     with open('creds.json', 'r') as f:
        content =  json.loads(f.read())
