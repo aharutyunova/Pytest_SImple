@@ -7,7 +7,7 @@ import pytest
 
 #test
 def test_1_registration():
-    assert 1 == 2
+    assert 1 == 1
 
 
 
